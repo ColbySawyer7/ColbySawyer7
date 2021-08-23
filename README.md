@@ -3,8 +3,6 @@
 
 <!--**ColbySawyer7/ColbySawyer7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [BRIDGES](https://cpopoviciu.github.io/BRIDGES/)
 - 🌱 I’m currently learning Bash scripting, Ruby and advanced Python
 - 👯 I’m looking to collaborate on anything Virtualization 
