@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about working together on new ideas! I am always open to contributing
 - 📫 [How to reach me](https://colbysawyer7.github.io/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am entering the world of 3D Priting
 
 
 | Section                   | Programing Language       | Project                   | Technologies 
