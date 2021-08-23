@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**ColbySawyer7/ColbySawyer7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--**ColbySawyer7/ColbySawyer7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+| Section                   | Programing Language       | Project                   | Technologies 
+| ------------------------- | ------------------------- | ------------------------- | -------------------------
+| **Python** |  |  | 
+| | Python | | 
+| **Java** | | |
+| | Java |  | 
+| | Java | | 
+<!--
+| **Clojure** | | | 
+| | Clojure | [Sample Web App in Clojure](https://github.com/jzinedine/cp-infra/tree/master/src/cp_infra) | Clojure, Pedestal, Web Services
+| **Rust** | | | 
+| | Rust/Problem Solving | [Hanoi Problem in Rust with invariant cheks](https://github.com/jzinedine/rust_playground) | Rust
 -->
