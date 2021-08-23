@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Bash scripting, Ruby and advanced Python
 - 👯 I’m looking to collaborate on anything Virtualization 
 - 💬 Ask me about working together on new ideas! I am always open to contributing
-- 📫 [How to reach me:](https://colbysawyer7.github.io/)
+- 📫 [How to reach me](https://colbysawyer7.github.io/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
