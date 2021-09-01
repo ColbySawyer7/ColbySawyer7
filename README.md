@@ -12,10 +12,10 @@
 - ⚡ Fun fact: I am entering the world of 3D Printing
 
 
-| Section                   | Programing Language       | Project                   | Technologies 
+| Section                   | Programing Language       | Project                   | Technologies
 | ------------------------- | ------------------------- | ------------------------- | -------------------------
 | **Python** |  |  | 
-| | Python | | 
+| | Python |[Lab Installation Manager] (https://github.com/ColbySawyer7/Lab_Installation) | OpenVPN, OpenNSA
 | **Java** | | |
 | | Java |  | 
 | | Java | | 
