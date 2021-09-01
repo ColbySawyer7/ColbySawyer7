@@ -19,10 +19,10 @@
 | **Java** | | |
 | | Java |  | 
 | | Java | | 
-| **C#** | | | 
-| | Unity Game Development | [Lighting Challenge](https://github.com/ColbySawyer7/Lighting_Challenge) | 
-| | Unity Game Development | [SurvivaBall](https://github.com/ColbySawyer7/SurvivaBall) |
-| | Unity Game Development | [Galaga Animals](https://github.com/ColbySawyer7/GalagaAnimals)|
+| **Unity Game Development** | | | 
+| | C# | [Lighting Challenge](https://github.com/ColbySawyer7/Lighting_Challenge) | 
+| | C# | [SurvivaBall](https://github.com/ColbySawyer7/SurvivaBall) |
+| | C# | [Galaga Animals](https://github.com/ColbySawyer7/GalagaAnimals)|
 
 <!--
 | **Rust** | | | 
