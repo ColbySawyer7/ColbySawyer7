@@ -15,7 +15,7 @@
 | Section                   | Programing Language       | Project                   | Technologies
 | ------------------------- | ------------------------- | ------------------------- | -------------------------
 | **Python** |  |  | 
-| | Python |[Lab Installation Manager](https://github.com/ColbySawyer7/Lab_Installation) | OpenVPN, OpenNSA
+| | Python, Bash |[Lab Installation Manager](https://github.com/ColbySawyer7/Lab_Installation) | OpenVPN, OpenNSA
 | **Java** | | |
 | | Java |  | 
 | | Java | | 
