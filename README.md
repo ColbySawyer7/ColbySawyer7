@@ -17,8 +17,8 @@
 | **Python** |  |  | 
 | | Python, Bash |[Lab Installation Manager](https://github.com/ColbySawyer7/Lab_Installation) | OpenVPN, OpenNSA
 | **Java** | | |
-| | Java |  | 
-| | Java | | 
+| | Java | [Gale-Shapley Stable Matching Algorithm](https://github.com/ColbySawyer7/CSCI_3650/tree/main/Assn_01)| 
+| | Java | [Kosaraju's Algorithm](https://github.com/ColbySawyer7/CSCI_3650/tree/main/Assn_03)| 
 | **Unity Game Development** | | | 
 | | C# | [Lighting Challenge](https://github.com/ColbySawyer7/Lighting_Challenge) | 
 | | C# | [SurvivaBall](https://github.com/ColbySawyer7/SurvivaBall) |
