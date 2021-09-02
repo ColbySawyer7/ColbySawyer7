@@ -19,14 +19,15 @@
 | | Python | [Kosaraju's Algorithm](https://github.com/ColbySawyer7/CSCI_3650/tree/main/Assn_03)| 
 | **Java** | | |
 | | Java | [Gale-Shapley Stable Matching Algorithm](https://github.com/ColbySawyer7/CSCI_3650/tree/main/Assn_01)| 
-| **Unity Game Development** | | | 
-| | C# | [Lighting Challenge](https://github.com/ColbySawyer7/Lighting_Challenge) | 
-| | C# | [SurvivaBall](https://github.com/ColbySawyer7/SurvivaBall) |
-| | C# | [Galaga Animals](https://github.com/ColbySawyer7/GalagaAnimals)|
 |**Web Development** | | |
 | | HTML, CSS, JS | [BRIDGES](https://cpopoviciu.github.io/BRIDGES/) | Google Firebase, Google Cloud Storage
 | | HTML, CSS, JS | [Pi-Pirates](https://pi-pirates-ecu.github.io/PI-Pirates-Site/)| Google Firebase, Google Cloud Storage
 | | HTML, CSS, JS | [React-Demo](https://github.com/ColbySawyer7/react-demo)| ReactJs
+| **Unity Game Development** | | | 
+| | C# | [Lighting Challenge](https://github.com/ColbySawyer7/Lighting_Challenge) | 
+| | C# | [SurvivaBall](https://github.com/ColbySawyer7/SurvivaBall) |
+| | C# | [Galaga Animals](https://github.com/ColbySawyer7/GalagaAnimals)|
+
 <!--
 | **Rust** | | | 
 | | Rust/Problem Solving | [Hanoi Problem in Rust with invariant cheks](https://github.com/jzinedine/rust_playground) | Rust
