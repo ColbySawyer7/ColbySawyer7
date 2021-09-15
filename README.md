@@ -17,6 +17,7 @@
 | **Python** |  |  | 
 | | Python, Bash |[Lab Installation Manager](https://github.com/ColbySawyer7/Lab_Installation) | OpenVPN, OpenNSA
 | | Python | [Kosaraju's Algorithm](https://github.com/ColbySawyer7/CSCI_3650/tree/main/Assn_03)| 
+| | Python | [NFL Data Visualization](https://github.com/ColbySawyer7/rushing_comparison)| [PyWebIO](https://github.com/pywebio/PyWebIO), [NFLFastPy](https://github.com/cooperdff/nfl_data_py)
 | **Java** | | |
 | | Java | [Gale-Shapley Stable Matching Algorithm](https://github.com/ColbySawyer7/CSCI_3650/tree/main/Assn_01)| 
 |**Web Development** | | |
