@@ -8,13 +8,13 @@ Welcome to my GitHub profile. I'm a passionate developer currently diving into t
 
 ## Current Projects
 
-| Project | Description | Programming Languages | Technologies |
-| ------- | ----------- | --------------------- | ------------ |
-| [PITON RESTful API](#) | This API serves as the backend for the PITON platform, an open network for IoT devices, designed to ensure seamless integration and data exchange. | Python, JavaScript | FastAPI, VueJS |
-| [Lab Installation Manager](https://github.com/ColbySawyer7/Lab_Installation) | A robust management system built for organizing and maintaining lab setups, including VPN configuration and network access control. | Python, Bash | OpenVPN, OpenNSA |
-| [Center for IoT Engineering and Innovation Website](https://iotei.org/) | The official website for the Center for IoT Engineering and Innovation, presenting resources, updates, and insights about IoT innovations. | HTML, CSS, JS | Google Firebase, Google Cloud Storage |
-| [PITON](#) | A comprehensive IoT platform built with Flutter, aimed at providing an open network for IoT devices on multiple mobile platforms. | Dart, Flutter | iOS, Android |
-| [BRIDGES Virtual Network Assistant](https://github.com/ColbySawyer7/chatgpt-bridges) | An interactive virtual assistant powered by OpenAI and ChatGPT, designed to facilitate network operations. | Python, JavaScript | OpenAI, ChatGPT |
+| Project | Description | Programming Languages | Technologies | Platform | 
+| ------- | ----------- | --------------------- | ------------ | -------- | 
+| [PITON RESTful API](#) | This API serves as the backend for the PITON platform, an open network for IoT devices, designed to ensure seamless integration and data exchange. | Python, JavaScript | FastAPI, VueJS | Docker, Linux |
+| [Lab Installation Manager](https://github.com/ColbySawyer7/Lab_Installation) | A robust management system built for organizing and maintaining lab setups, including VPN configuration and network access control. | Python, Bash | OpenVPN, OpenNSA | Docker, Linux |
+| [Center for IoT Engineering and Innovation Website](https://iotei.org/) | The official website for the Center for IoT Engineering and Innovation, presenting resources, updates, and insights about IoT innovations. | HTML, CSS, JS | Google Firebase, Google Cloud Storage | Web |
+| [PITON](#) | A comprehensive IoT platform built with Flutter, aimed at providing an open network for IoT devices on multiple mobile platforms. | Dart, Flutter  | Google Firebase, Google Cloud Storage, GCP SDK | iOS, Android |
+| [BRIDGES Virtual Network Assistant](https://github.com/ColbySawyer7/chatgpt-bridges) | An interactive virtual assistant powered by OpenAI and ChatGPT, designed to facilitate network operations. | Python, JavaScript | OpenAI, ChatGPT | Docker, Linux
 
 ## Older Projects
 
