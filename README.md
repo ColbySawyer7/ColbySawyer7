@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. I'm a passionate developer currently diving into the worlds of Rust, Python, Machine Learning, AI, and IoT. Feel free to explore and reach out if you'd like to collaborate!
 
-🔭 Currently, I'm involved with [BRIDGES](https://cnl.gmu.edu/bridges/) and [ECU-Sensing](https://github.com/ECU-Sensing) which is now operated by the [Center for IoT Engineering and Innovation](https://iotei.org/).
+🔭 Currently, I'm involved with [PITON](https://pitoncloud.org) and [ECU-Sensing](https://github.com/ECU-Sensing) which is now operated by the [Center for IoT Engineering and Innovation](https://cet.ecu.edu/ciei/).
 
 💬 Let's [work together](https://colbysawyer7.github.io/) on new ideas!
 
