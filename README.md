@@ -10,12 +10,12 @@ Welcome to my GitHub profile. I'm a passionate developer currently diving into t
 
 | Project | Description | Programming Languages | Technologies | Platform | 
 | ------- | ----------- | --------------------- | ------------ | -------- | 
-| [PITON RESTful API](#) | This API serves as the backend for the PITON platform, an open network for IoT devices, designed to ensure seamless integration and data exchange. | Python, JavaScript | FastAPI, VueJS | Docker, Linux, Web |
-| [Rusty Chat API](https://github.com/ColbySawyer7/rusty-api)             | This API implementation in Rust serves as a boilerplate for deploying Ollama interfacing chatbots, automations, etc. Includes Dockerfile and Docker Compose for quick deployment.  | Rust | Ollama, LLMs | Docker, Linux, Web |
+| [PITON](https://pitoncloud.org) | A comprehensive IoT platform aimed at providing an open network for devices using LoRaWAN, Wifi, BLE, Zigbee | Typescript | NextJS | Web |
+| [PITON Mobile](https://pitoncloud.org/#mobile) | A mobile companions to PITON the IoT platform aimed at providing an open network for devices using LoRaWAN, Wifi, BLE, Zigbee | Flutter | - | Andriod, iOS |
+| [PITON API](#) | This API serves as the backend for the PITON platform, an open network for IoT devices, designed to ensure seamless integration and data exchange. | Python, TypeScript | FastAPI, NextJS, Postgres | Web, Docker |
+| [Rusty Chat API](https://github.com/ColbySawyer7/rusty-api) | This is a simple HTTP API implementation in Rust for deploying Ollama interfacing agents, automations, etc. Includes Dockerfile and Docker Compose for quick deployment. | Rust | Ollama, LLMs | Docker, Linux, Web |
 | [Lab Installation Manager](https://github.com/ColbySawyer7/Lab_Installation) | A robust management system built for organizing and maintaining lab setups, including VPN configuration and network access control. | Python, Bash | OpenVPN, OpenNSA | Docker, Linux |
 | [Center for IoT Engineering and Innovation Website](https://iotei.org/) | The official website for the Center for IoT Engineering and Innovation, presenting resources, updates, and insights about IoT innovations. | HTML, CSS, JS | Google Firebase, Google Cloud Storage | Web |
-| [PITON](#) | A comprehensive IoT platform built with Flutter, aimed at providing an open network for IoT devices on multiple mobile platforms. | Dart, Flutter  | Google Firebase, Google Cloud Storage, GCP SDK | iOS, Android |
-| [BRIDGES Virtual Network Assistant](https://github.com/ColbySawyer7/chatgpt-bridges) | An interactive virtual assistant powered by OpenAI and ChatGPT, designed to facilitate network operations. | Python, JavaScript | OpenAI, ChatGPT | Docker, Linux
 
 ## Older Projects
 
