@@ -21,7 +21,7 @@ Welcome to my GitHub profile. I'm a passionate developer currently diving into t
 
 | Project | Description | Programming Languages | Technologies |
 | ------- | ----------- | --------------------- | ------------ |
-
+| [Operating System from Scratch](https://github.com/ColbySawyer7/softshell) | A simple x86 operating system written in Rust, used to learn the fundamentals  | Rust, Assembly | x86 |
 | [Lab Installation Manager](https://github.com/ColbySawyer7/Lab_Installation) | A robust management system built for organizing and maintaining lab setups, including VPN configuration and network access control. | Python, Bash | OpenVPN, OpenNSA | Docker, Linux |
 | [Kosaraju's Algorithm](https://github.com/ColbySawyer7/CSCI_3650/tree/main/Assn_03) | An implementation of Kosaraju's Algorithm in Python, designed to find strongly connected components in a directed graph. | Python | |
 | [NFL Data Visualization](https://github.com/ColbySawyer7/rushing_comparison)| A data visualization tool built to analyze and compare NFL data, utilizing PyWebIO and NFLFastPy for data extraction and presentation. | Python | [PyWebIO](https://github.com/pywebio/PyWebIO), [NFLFastPy](https://github.com/cooperdff/nfl_data_py) |
